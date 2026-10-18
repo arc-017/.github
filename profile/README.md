@@ -1,3 +1,5 @@
+![ARC Banner](https://raw.githubusercontent.com/arc-017/.github/main/profile/arc-017.2.png)
+
 # Atemporal Research Collective
 
 **Atemporal Research Collective (ARC)** is an independent interdisciplinary research collective exploring fundamental questions in computation, complex systems, cognition, and theoretical science.
